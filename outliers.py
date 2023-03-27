@@ -160,11 +160,3 @@ replace_with_thresholds(df, "Age")
 check_outlier(df, "Age")
 
 
-
-
-#############################################
-# Çok Değişkenli Aykırı Değer Analizi: Local Outlier Factor  (LOF yönteminde komşu uzaklık yoğunluklarına bakılır)
-#############################################
-# 17 years old with 3 mariage
-
-
